@@ -25,12 +25,10 @@ The original working environment used the NatNet client from [`TimSchneider42/py
 Open a terminal on the computer that will run Python.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/optitrack-on-demand.git
+git clone https://github.com/ARM-Lab/optitrack-on-demand.git
 cd optitrack-on-demand
 python -m venv .venv
 ```
-
-Replace `YOUR_USERNAME` with the actual GitHub username or organisation after the repository is published. Alternatively, download the repository as a ZIP from GitHub and extract it.
 
 Activate the environment:
 
