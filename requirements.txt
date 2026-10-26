@@ -1,0 +1,2 @@
+# OptiTrack NatNet Python client
+natnet @ git+https://github.com/TimSchneider42/python-natnet-client@f65eb186d5275be997cdb7ec2ac5989062070c8e
